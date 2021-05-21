@@ -1,0 +1,16 @@
+.adjust-row {
+    margin-left: -17px;
+    margin-right: 0px;
+}
+
+.navbar .container .navbar-brand {
+    color: white;
+    font-size: 2.8em;
+    margin: 18px 0;
+}
+
+.navbar .container .navbar-brand:hover {
+    color: lightpink;
+    font-size: 2.8em;
+    margin: 18px 0;
+}
