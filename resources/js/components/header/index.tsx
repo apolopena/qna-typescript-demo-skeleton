@@ -8,7 +8,7 @@ const Header = () => (
       <div className='container'>
         <Link className='navbar-brand' to='/'>Q&A</Link>
       </div>
-    </nav >
+    </nav>
   </div>
 )
 export default Header
