@@ -1,5 +1,5 @@
 import React from 'react'
-import { Route, useParams, useRouteMatch } from 'react-router-dom'
+import { Route, useRouteMatch } from 'react-router-dom'
 
 import { AnswersContainer } from '../containers/answers'
 
