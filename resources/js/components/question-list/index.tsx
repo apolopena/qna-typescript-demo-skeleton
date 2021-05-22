@@ -5,7 +5,6 @@ import './styles.css'
 import { QuestionData, QuestionListProps } from 'qna-types'
 import { QuestionListItem } from '../../components'
 
-
 const QuestionList = ({ payload, isLoading }: QuestionListProps) => {
   return (
     <div className='card'>
