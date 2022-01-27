@@ -16,6 +16,9 @@ all_zeros='^[0]+$'
 [[ -f resources/js/components/Example.js ]] && rm resources/js/components/Example.js
 [[ -f resources/views/welcome.blade.php ]] && rm resources/views/welcome.blade.php
 
+# Use this projects package json
+yarn install
+
 # Migrate and Seed
 declare -a exit_codes=()
 msg="Migrating and seeding project database"
